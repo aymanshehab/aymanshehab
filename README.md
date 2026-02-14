@@ -15,13 +15,13 @@ Hello and welcome to my GitHub profile! I'm Ayman Ali Shehab, a data analyst wit
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aymanali1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aymanshehab)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanali1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanshehab)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aymanali1&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aymanshehab&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=aymanali1)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=aymanshehab)  
 
 
 
